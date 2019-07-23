@@ -1,0 +1,24 @@
+{
+  "name": "mosh-node",
+  "version": "1.0.0",
+  "description": "Mosh's NodeJS tutorial from YouTube.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrwmacintire/mosh-node.git"
+  },
+  "keywords": [
+    "mosh",
+    "node",
+    "js"
+  ],
+  "author": "John MacIntire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrwmacintire/mosh-node/issues"
+  },
+  "homepage": "https://github.com/jrwmacintire/mosh-node#readme"
+}
